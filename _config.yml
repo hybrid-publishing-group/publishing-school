@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Berlin.Publishing School
 description: NextGen Free and Open-Source Publishing
+gems:
+  - jekyll-seo-tag
