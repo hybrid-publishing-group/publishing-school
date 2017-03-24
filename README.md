@@ -5,5 +5,3 @@ Learn about professional hybrid digital and print publishing, using only free an
 ### Year Zero
 
 Say goodbye to software applications and CMS legacy systems and start your publishing workflows afresh, with models using continuous intergration, mirco-services, real-time processing and crytographic IDs.
-
-Brought to you by the Hybrid Publishing Group - https://hpg.io
