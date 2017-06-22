@@ -8,7 +8,7 @@ Say goodbye to expensive and time-consuming legacy software applications and CMS
 
 ### Multi-Format and Mobile-First
 
-Publish to multiple—formats, platforms and channels—old and new. Use single-source and multi-source content and data feeds.
+Publish to multiple—formats, platforms and channels—old and new. Use single-source, multi-source content, and data feeds.
 
 
 
