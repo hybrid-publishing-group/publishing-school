@@ -1,5 +1,3 @@
-## Welcome
-
 Learn about professional hybrid publishing—digital and print—using only free and open source software
 
 ### Year Zero
