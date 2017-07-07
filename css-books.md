@@ -4,6 +4,8 @@
 
 NextGen free and open source publishing
 
+A series of three evening classes: 7.30–9.30pm CEST, Berlin; starting 19th July, then 26th July and finishing 2nd August
+
 Register, email Simon simon@hpg.io
 
 Free course, classroom and online, info http://berlin.publishing-school.net/css-books
@@ -18,7 +20,15 @@ Over the duration of the course you will make a small book.
 
 No prior experience needed, just bring a laptop.
 
-Technologies: #Vivliostyle #Transpect #CSS Paged Media #GitHubA series of three evening classes: 7.30–9.30pm CEST, Berlin; starting 19th July, then 26th July and finishing 2nd August; location (classroom) Anagram Books Distribution, Lausitzer Str. 35, 10999 Berlin, (online) Slack, https://hybrid-publishing.slack.com #psberlin; contact, Simon Worthington simon@hpg.io @hy_pub +49(0)17.4405-4890.
+Technologies: #Vivliostyle #Transpect #CSS Paged Media #GitHub
+
+Location:
+
+(classroom) Anagram Books Distribution, Lausitzer Str. 35, 10999 Berlin
+
+(online) Slack, https://hybrid-publishing.slack.com #psberlin
+
+Contact, Simon Worthington simon@hpg.io @hy_pub +49(0)17.4405-4890.
 
 Discuss using #psberlin hashtag https://twitter.com/@hy_pub or join Slack channel https://hybrid-publishing.slack.com
 
