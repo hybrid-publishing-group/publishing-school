@@ -8,11 +8,11 @@ NextGen free and open source publishing
 
 A series of three evening classes: 7.30–9.30pm CEST, Berlin; starting 19th July, then 26th July and finishing 2nd August
 
-Register, email Simon [simon@hpg.io](simon@hpg.io)
+Register, email Simon [simon@hpg.io](mailto:simon@hpg.io)
 
 Free course, classroom and online, info [http://berlin.publishing-school.net/css-books](http://berlin.publishing-school.net/css-books)
 
-https://twitter.com/@hy_pub #psberlin
+[https://twitter.com/@hy_pub](https://twitter.com/@hy_pub) #psberlin
 
 Learn to design a multi-format book from one XHTML source file using CSS. Multi-format outputs include: print PDF, print-on-demand PDF, screen PDF, mobile-first Web using Bootstrap, and eBook formats EPUB 2 / 3 and AZW3 / KF8 for Kindle.
 
@@ -28,15 +28,16 @@ Location:
 
 (classroom) Anagram Books Distribution, Lausitzer Str. 35, 10999 Berlin
 
-(online) Slack, https://hybrid-publishing.slack.com #psberlin
+(online) Slack, [https://hybrid-publishing.slack.com](https://hybrid-publishing.slack.com) #psberlin
 
 Contact, Simon Worthington simon@hpg.io @hy_pub +49(0)17.4405-4890.
 
-Discuss using #psberlin hashtag https://twitter.com/@hy_pub or join Slack channel https://hybrid-publishing.slack.com
+Discuss using #psberlin hashtag 
+[https://twitter.com/@hy_pub](https://twitter.com/@hy_pub) or join Slack channel [https://hybrid-publishing.slack.com](https://hybrid-publishing.slack.com)
 
-Thanks for support from Anagram Books Distribution http://anagrambooks.com/
+Thanks for support from Anagram Books Distribution [http://anagrambooks.com/](http://anagrambooks.com/)
 
-Brought to you by theHybridPublishingGroup https://hpg.io/ 
+Brought to you by theHybridPublishingGroup [https://hpg.io/](https://hpg.io/)
 
 # Course Outline
 
@@ -46,7 +47,7 @@ By Berlin.Publishing School
 
 NextGen free and open source publishing
 
-http://berlin.publishing-school.net/css-books
+[http://berlin.publishing-school.net/css-books](http://berlin.publishing-school.net/css-books)
 
 ### Details
 
@@ -58,8 +59,8 @@ http://berlin.publishing-school.net/css-books
 * Time: 7.30–9.30pm CEST
 * Location: 
 * Classroom – Berlin, Anagram Books Distribution, Lausitzer Str. 35, 10999 Berlin
-* Online – Slack, https://hybrid-publishing.slack.com channel #psberlin
-* Contact: Simon Worthington simon@hpg.io +49(0)17.4405-4890 https://twitter.com/@hy_pub
+* Online – Slack, [https://hybrid-publishing.slack.com](https://hybrid-publishing.slack.com) channel #psberlin
+* Contact: Simon Worthington simon@hpg.io +49(0)17.4405-4890 [https://twitter.com/@hy_pub](https://twitter.com/@hy_pub)
 
 ### Why the course?
 
@@ -136,5 +137,5 @@ Outputting your complete book and how to integrate CSS mult-format book design i
 
 –
 
-Brought to you by the HYBRIDPUBLISHINGGROUP https://hpg.io/
+Brought to you by the HYBRIDPUBLISHINGGROUP [https://hpg.io/](https://hpg.io/)
 
