@@ -8,6 +8,8 @@ Register, email Simon simon@hpg.io
 
 Free course, classroom and online, info http://berlin.publishing-school.net/css-books
 
+https://twitter.com/@hy_pub #psberlin
+
 Learn to design a multi-format book from one XHTML source file using CSS. Multi-format outputs include: print PDF, print-on-demand PDF, screen PDF, mobile-first Web using Bootstrap, and eBook formats EPUB 2 / 3 and AZW3 / KF8 for Kindle.
 
 The CSS book layout method can be integrated into any workflow or CMS as long as you can provide an XHTML file. The CSS/XHTML combo with GitHub revisioning has a number of advantages, it means text and graphics editors can carry on working away on one file set while you work on layout; you can create a CSS layout library that means speedy layouts can be applied to new projects; and finally you can adopt a free and open source workflow saying goodbye to proprietary and expensive software licenses.
@@ -74,10 +76,10 @@ What the course will include in book design and layout?
 ### A. Book design outputs:
 
 * Print and print-on-demand print
-· PDF for screen
-· Mobile-first Web Bootstrap XHTML
-· Vivliostyle web reader
-· eBook – EPUB 2, 3 and AZW3 / KF8 (Kindle)
+* PDF for screen
+* Mobile-first Web Bootstrap XHTML
+* Vivliostyle web reader
+* eBook – EPUB 2, 3 and AZW3 / KF8 (Kindle)
 
 ### B. Book design / layout:
 
@@ -121,8 +123,6 @@ Session 3
 Outputting your complete book and how to integrate CSS mult-format book design into your workflow.
 
 –
-
-
 
 Brought to you by the HYBRIDPUBLISHINGGROUP https://hpg.io/
 
