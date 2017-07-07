@@ -1,3 +1,5 @@
+[home](http://berlin.publishing-school.net)
+
 # Multi-Format Book Design Using CSS — Intro Course
 
 ## Berlin.Publishing School
@@ -6,9 +8,9 @@ NextGen free and open source publishing
 
 A series of three evening classes: 7.30–9.30pm CEST, Berlin; starting 19th July, then 26th July and finishing 2nd August
 
-Register, email Simon simon@hpg.io
+Register, email Simon [simon@hpg.io](simon@hpg.io)
 
-Free course, classroom and online, info http://berlin.publishing-school.net/css-books
+Free course, classroom and online, info [http://berlin.publishing-school.net/css-books](http://berlin.publishing-school.net/css-books)
 
 https://twitter.com/@hy_pub #psberlin
 
