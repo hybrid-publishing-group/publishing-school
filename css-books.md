@@ -38,7 +38,7 @@ Discuss using #psberlin hashtag
 Thanks for support from Anagram Books Distribution [http://anagrambooks.com/](http://anagrambooks.com/)
 
 Brought to you by theHybridPublishingGroup [https://hpg.io/](https://hpg.io/)
-
+
 # Course Outline
 
 ## Course name: Multi-Format Book Design Using CSS — Intro Course
